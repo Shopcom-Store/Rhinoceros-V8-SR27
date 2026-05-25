@@ -10,6 +10,12 @@ https://www.shopcom.tn/product/rhinoceros-v8-sr27/
 
 Product Price : 1,102 $
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 Rhinoceros 8.27.25357.11371 is a Service Release (SR27) version of the professional 3D modeling software, published in late December 2025 . Identified as a "Moderate" severity update via an MSI installer, it was formally added to patch repositories on January 16, 2026.
